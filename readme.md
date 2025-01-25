@@ -1,0 +1,1 @@
+# Django x-accel-redirect
